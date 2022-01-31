@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Counter value="0" />
+        <Counter />
       </header>
     </div>
   );
